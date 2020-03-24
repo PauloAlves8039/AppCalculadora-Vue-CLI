@@ -1,24 +1,38 @@
-# app-calculadora
+# AppCalculadora-Vue-CLI
 
-## Project setup
+Repositório de uma aplicação web para fins acadêmicos onde simula uma SPA para uso de uma calculadora básica,
+projeto teve seu código como base na live [Desenvolvendo uma Calculadora em Vue.js](https://www.youtube.com/watch?v=oEPVTnjIB_8).
+
+# Especificações
+- HTML5
+- CSS3
+- Javascript
+- Yarn v1.22.4
+- VueJS v2.9.6
+- Vue CLI v4.2.3
+
+# Comando para instalar o Yarn
 ```
-yarn install
+yarn global add @vue/cli
+```
+# Comando para instalar o Vue CLI
+```
+npm install -g @vue/cli
+```
+# Comando para criar a aplicação
+```
+vue create app-calculadora
 ```
 
-### Compiles and hot-reloads for development
+# Comando de execução da aplicação
 ```
 yarn serve
 ```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+# Screenshot
+<html lang="pt-br">
+<head>
+</head>
+<body>
+	<img src="https://github.com/PauloAlves8039/AppCalculadora-Vue-CLI/blob/master/src/assets/image/screenshot.png" />
+</body>
+</html>
