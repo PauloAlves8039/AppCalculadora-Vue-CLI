@@ -7,7 +7,7 @@
 </p>
 
 ## :computer: Projeto
-Repositório de uma aplicação web para fins acadêmicos onde simula uma SPA para uso de uma calculadora básica,
+Repositório de uma aplicação web para fins acadêmicos com o objetivo de simular uma SPA para uso de uma calculadora básica,
 projeto teve seu código como base na live [Desenvolvendo uma Calculadora em Vue.js](https://www.youtube.com/watch?v=oEPVTnjIB_8).
 
 ## :wrench: Recursos Utilizados
@@ -31,4 +31,4 @@ projeto teve seu código como base na live [Desenvolvendo uma Calculadora em Vue
 ![screenshot](https://github.com/PauloAlves8039/AppCalculadora-Vue-CLI/blob/master/src/assets/image/screenshot.png)
 
 ## Author
-:computer: [Paulo Alves](https://github.com/PauloAlves8039)
+:boy: [Paulo Alves](https://github.com/PauloAlves8039)
