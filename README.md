@@ -30,5 +30,8 @@ projeto teve seu código como base na live [Desenvolvendo uma Calculadora em Vue
 ## :camera: Screenshot
 ![screenshot](https://github.com/PauloAlves8039/AppCalculadora-Vue-CLI/blob/master/src/assets/image/screenshot.png)
 
+## :pencil: Licença
+Esse projeto está sob a licença [MIT](https://github.com/PauloAlves8039/AppCalculadora-Vue-CLI/blob/master/LICENSE.md)
+
 ## Author
 :boy: [Paulo Alves](https://github.com/PauloAlves8039)
