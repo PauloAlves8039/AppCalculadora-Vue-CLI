@@ -1,4 +1,4 @@
-<h1 align="center">:calling: AppCalculadora Vue CLI</h1>
+![screenshot](https://github.com/PauloAlves8039/AppCalculadora-Vue-CLI/blob/master/src/assets/image/screenshot.png)
 
 <p align="center">
   <a href="https://yarnpkg.com/"><img src="https://img.shields.io/badge/Yarn-v1.22.4-blue"></a>
@@ -26,9 +26,6 @@ projeto teve seu código como base na live [Desenvolvendo uma Calculadora em Vue
 - Execute ```yarn global add @vue/cli``` para instalar os módulos necessários do Yarn.
 - Execute ```npm install -g @vue/cli``` para instalar os módulos necessários do Vue CLI.
 - Execute ```yarn serve``` para execução da aplicação em```localhost:8080```.
-
-## :camera: Screenshot
-![screenshot](https://github.com/PauloAlves8039/AppCalculadora-Vue-CLI/blob/master/src/assets/image/screenshot.png)
 
 ## :pencil: Licença
 Esse projeto está sob a licença [MIT](https://github.com/PauloAlves8039/AppCalculadora-Vue-CLI/blob/master/LICENSE.md)
